@@ -1,3 +1,4 @@
+! Melhorar identação
 program lancamento_projetil
 implicit none
 real g,x,y,vx,vy,k,del_t,h,F1,F2,F3,F4, H1, H2, H3, H4
